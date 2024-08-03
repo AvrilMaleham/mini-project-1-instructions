@@ -3,6 +3,7 @@
 For your first mini project, you will be honing your HTML and CSS skills.
 
 Using HTML and CSS, please recreate this static webpage:
+
 ![image](https://github.com/user-attachments/assets/756b5680-3fb5-4f0f-89f5-4fbe79377be3)
 
 ## You will need to think about:
